@@ -47,9 +47,9 @@ target2 = df.loc[:, 'PRICE'].values
 model2 = LinearRegression()
 # fit関数でパラメータ推定
 model2.fit(data2, target2)
+# モデルで物件価格を予測
 data_p_rm = list(range(8))
 data_p_crim = 0.3
-# モデルで物件価格を予測
 for rm in data_p_rm:
   price = model2.predict([[data_p_crim, rm]])
   print('[犯罪率, 部屋数]:[{0},{1}], 価格:{2}'.format(data_p_crim, rm, price))
