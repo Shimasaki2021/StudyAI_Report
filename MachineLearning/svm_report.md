@@ -59,11 +59,6 @@ import matplotlib.pyplot as plt
 cancer_df = pd.read_csv('/content/drive/My Drive/studyAI/study_ai_ml_google/data/cancer.csv')
 cancer_df.drop('Unnamed: 32', axis=1, inplace=True)
 
-# ====================
-#  次元圧縮なしモデル
-#    診断結果(目的変数)、id以外の全データで予測するロジスティック回帰モデル作成＆検証
-# ====================
-
 # 目的変数の抽出
 y = cancer_df.diagnosis.apply(lambda d: 1 if d == 'M' else 0)
 # 説明変数の抽出
@@ -77,23 +72,13 @@ scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 
-# ロジスティック回帰で学習
-logistic = LogisticRegressionCV(cv=10, random_state=0)
-logistic.fit(X_train_scaled, y_train)
-
-# 検証
-print('Train score: {:.3f}'.format(logistic.score(X_train_scaled, y_train)))
-print('Test score: {:.3f}'.format(logistic.score(X_test_scaled, y_test)))
-print('Confustion matrix:\n{}'.format(confusion_matrix(y_true=y_test, y_pred=logistic.predict(X_test_scaled))))
-
-# ====================
-#  次元圧縮ありモデル
-#    次元数2に圧縮したデータで予測するロジスティック回帰モデル作成＆検証
-# ====================
-
 # 次元数2まで圧縮
 pca = PCA(n_components=2)
 X_train_pca = pca.fit_transform(X_train_scaled)
+
+# ====================
+#  ロジスティック回帰モデル作成＆検証
+# ====================
 
 logistic_model2 = LogisticRegressionCV(cv=10, random_state=0)
 logistic_model2.fit(X_train_pca, y_train)
@@ -117,8 +102,7 @@ plt.xlabel('PC 1') # 第1主成分をx軸
 plt.ylabel('PC 2') # 第2主成分をy軸
 
 # ====================
-#  次元圧縮ありモデル(SVM)
-#    次元数2に圧縮したデータで予測するサポートベクタマシンモデル作成＆検証
+#  サポートベクタマシンモデル作成＆検証
 # ====================
 
 from sklearn.svm import SVC
@@ -139,11 +123,10 @@ print('Test score(svm model): {:.3f}'.format(model_svm.score(X_test_pca, y_test)
 
 | モデル | 検証スコア |
 |:-----------|:------------|
-| 次元圧縮なし（ロジスティック回帰） | 97% |
-| 次元圧縮あり（ロジスティック回帰） | 92% |
-| 次元圧縮あり（サポートベクタマシン） | 93% |
+| ロジスティック回帰 | 92% |
+| サポートベクタマシン | 93% |
 
-次元圧縮あり（ロジスティック回帰）とほぼ同等の結果となった。
+ロジスティック回帰とほぼ同等の結果となった。
 どちらも線形関数をベースとした分類なので、ほぼ同等となったと考えられる。
 
 <img src="svm_report_fig_kadai_result.png" width="75%" />
