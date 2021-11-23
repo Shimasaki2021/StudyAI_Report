@@ -111,7 +111,7 @@ ax = fig.add_subplot(111)
 ax.grid()
 ax.plot(xx, yy_i, label="identify", color="blue")
 ax.plot(xx, yy_s, label="sigmoid", color="orange")
-ax.set_xlabel("xx[][0]")
+ax.set_xlabel("xx")
 ax.set_ylabel("yy")
 ax.legend()
 
