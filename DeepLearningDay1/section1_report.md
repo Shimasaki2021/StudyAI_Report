@@ -107,6 +107,7 @@ print_vec("入力", x)
 network =  init_network2()
 
 y, z1, z2 = forward2(network, x)
+print("出力: "+str(y))
 ``` 
 
 実行結果（snapshot）は以下
