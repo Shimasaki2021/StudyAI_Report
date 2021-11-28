@@ -26,6 +26,7 @@
 
 - 小分けしたデータ単位でデータ並列化（SIMD）が可能　→　学習時間の短縮
 
+<div style="page-break-before:always"></div>
 
 -----
 ## 2. 実装演習
@@ -130,10 +131,8 @@ for i in range(data_sets_size):
 
 # 学習率
 learning_rate = 0.07
-
 # 抽出数
 data_num = 500
-
 # データのランダム抽出
 random_datasets = np.random.choice(data_sets, data_num)
 
@@ -214,12 +213,18 @@ plt.show()
 
 ```
 
+<div style="page-break-before:always"></div>
+
 実行結果は下図
 
-- 「確率勾配降下法」(SGD)のほうがエポック数が多いためか、最終的な誤差値(loss)は小さくなっている。
-- ただ、「ミニバッチ勾配降下法」(mini batch)のほうが比較的安定的に誤差が減少している。
+- 「確率勾配降下法」(SGD)のほうがエポック数が多い（※）ためか、最終的な誤差値(loss)は小さい。
+- ただ、「ミニバッチ勾配降下法」(mini batch)のほうが比較的安定的に誤差が減少しているため、こちらのほうが学習がスムーズに進むと考えられる。
+
+(※)同じ学習データセットで比較したかったので、データ数をそろえる実装にしたことによる
 
 <img src="section4_kadai_result.png" width="75%" />
+
+<div style="page-break-before:always"></div>
 
 -----
 ## 3. 確認テスト
@@ -238,17 +243,20 @@ plt.show()
         network[key]  -= learning_rate * grad[key]
 ```
 
+<div style="page-break-before:always"></div>
+
 -----
 
 <img src="section4_test2.png" width="75%" />
 
 学習データを、都度得られたデータを与えて学習すること。システム運用中に得られたデータを使って学習する、といったことを指す。
 
+<div style="page-break-before:always"></div>
 
 -----
 
 <img src="section4_test3.png" width="75%" />
 
-エポック毎に、パラメータwtを更新量-ε∇Etで更新する。Etは、パラメータwtのネットワークで得られた出力の誤差を表す。
+エポック毎に、パラメータ$w^t$を更新量$-ε∇E_t$で更新する。$E_t$は、パラメータ$w^t$のネットワークで得られた出力の誤差を表す。
 
 <img src="section4_test3_answer.png" width="50%" />
