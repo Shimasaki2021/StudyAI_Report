@@ -10,6 +10,7 @@
 
 入力層に入力された情報xiは、重要度に応じた重みが掛けられ、これらを足し合わせてバイアスをつけた結果が中間層の各ノードに渡される（総入力u）。
 
+<div style="page-break-before:always"></div>
 
 -----
 ## 2. 実装演習
@@ -110,10 +111,13 @@ y, z1, z2 = forward2(network, x)
 print("出力: "+str(y))
 ``` 
 
+<div style="page-break-before:always"></div>
+
 実行結果（snapshot）は以下
 
 <img src="section1_kadai_result.png" width="75%" />
 
+<div style="page-break-before:always"></div>
 
 -----
 ## 3. 確認テスト
@@ -125,15 +129,21 @@ print("出力: "+str(y))
 - 最適化対象
   - ③重み[W]、④バイアス[b]
 
+<div style="page-break-before:always"></div>
+
 -----
 <img src="section1_test2.png" width="75%" />
 
 <img src="section1_test2_answer.png" width="75%" />
 
+<div style="page-break-before:always"></div>
+
 -----
 <img src="section1_test3.png" width="75%" />
 
 <img src="section1_test3_answer.png" width="75%" />
+
+<div style="page-break-before:always"></div>
 
 -----
 <img src="section1_test4.png" width="75%" />
@@ -142,6 +152,8 @@ print("出力: "+str(y))
 # 数式u=Wx+bのpythonコード
 u = np.dot(x, W) + b
 ``` 
+
+<div style="page-break-before:always"></div>
 
 -----
 <img src="section1_test5.png" width="75%" />

@@ -20,7 +20,7 @@
 
 ※ソフトマックス関数、恒等関数は図示省略
 
-
+<div style="page-break-before:always"></div>
 
 -----
 ## 2. 実装演習
@@ -117,6 +117,8 @@ ax.legend()
 
 ``` 
 
+<div style="page-break-before:always"></div>
+
 実行結果（snapshot）は以下
 
 - シグモイド（オレンジ）の結果は、全ての入力に対して、出力＝0～1におさまっている。
@@ -125,7 +127,7 @@ ax.legend()
 
 <img src="section2_kadai_result.png" width="75%" />
 
-
+<div style="page-break-before:always"></div>
 
 -----
 ## 3. 確認テスト
@@ -140,6 +142,8 @@ ax.legend()
   - 加法性、斉次性を満たさない
 
 <img src="section2_test1_answer.png" width="75%" />
+
+<div style="page-break-before:always"></div>
 
 -----
 <img src="section2_test2.png" width="75%" />

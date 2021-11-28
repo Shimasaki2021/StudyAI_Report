@@ -20,7 +20,7 @@
 | 活性化関数 | 恒等写像 | シグモイド関数 | ソフトマックス関数 | 
 | 誤差関数 | 2乗誤差(平均2乗誤差) | クロスエントロピー | クロスエントロピー  | 
 
-
+<div style="page-break-before:always"></div>
 
 -----
 ## 2. 実装演習
@@ -111,12 +111,16 @@ print_vec("誤差(cross(y,d[3]))",  loss_cross_3)
 print_vec("誤差(mse(y,d[3]))",  loss_mse_3)
 ``` 
 
+<div style="page-break-before:always"></div>
+
 実行結果（snapshot）は以下
 
 - 平均2乗誤差(mse)で出力した誤差は、クロスエントロピー(cross)の誤差と比較して、正解との差が大きくなっても（d[2],d[3]）誤差値の増加が小さい。
 - このため、分類問題（確率出力）に対して平均2乗誤差を適用すると、誤差逆伝搬で伝搬される誤差値が小さくなり、学習が進みにくくなると考えられる。
 
 <img src="section3_kadai_result.png" width="75%" />
+
+<div style="page-break-before:always"></div>
 
 -----
 ## 3. 確認テスト
@@ -128,6 +132,7 @@ print_vec("誤差(mse(y,d[3]))",  loss_mse_3)
 - 1/2の意味
    - 微分した式を簡略化し（y-dとする）、学習時の誤差逆伝搬をやりやすくする
 
+<div style="page-break-before:always"></div>
 
 -----
 <img src="section3_test2.png" width="75%" />
@@ -156,6 +161,8 @@ def softmax(x):
     # ③: 下式np.sum(np.exp(x))  Σk(e^uk)の計算
     return np.exp(x) / np.sum(np.exp(x))
 ``` 
+
+<div style="page-break-before:always"></div>
 
 -----
 <img src="section3_test3.png" width="75%" />
