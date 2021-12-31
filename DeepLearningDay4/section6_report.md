@@ -211,7 +211,7 @@ Input
 実行環境
 - PC
   - CPU: AMD Ryzen 3700X (8コア16スレッド)
-  - GPU: NVIDIA GeForce GTX 1660 SUPER
+  - GPU: NVIDIA GeForce GTX 1660 SUPER（CUDA11.3）
   - Memory: 32GB (DDR4)
 - Python環境(Version)
   - Python: 3.7.11
