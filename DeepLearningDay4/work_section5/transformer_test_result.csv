@@ -1,0 +1,501 @@
+,input,pred,ok,wordnum,bleu
+0,show your own business,自分 の こと を <UNK> し て くれ た,自分 の 事 を しろ,4,45.91497693322865
+1,he lived a hard life,彼 は 一生 懸命 生き て い た,彼 は つら い 人生 を 送 っ た,5,54.62757644646491
+2,no,<UNK> でき な い,ごめん なさ い,1,15.346542276007952
+3,she wrote to me to come at once,彼女 は すぐ に すぐ に 来る よう に 私 に 書き留め た,彼女 は 私 に すぐ 来 い と の 便り を よこ し た,8,58.31101839887756
+4,i can 't swim at all,私 は 泳げ な い,私 は 少し も 泳げ な い,6,43.29820146406897
+5,is there any hope of his success,彼 の 成功 は 成功 が あ る の,彼 の 成功 の 見込み は あ り ま す か,7,30.57313601574921
+6,i 'll pick him up at 5,５ 時 に 彼 を 迎え に 行 き ま しょ う,私 は ５ 時 に 彼 を 迎え に 行 く つもり で す,7,49.393703961278845
+7,it 's so lovely a day,そう い い 日 だ,本当 に い い 天気 だ,6,60.82887289096036
+8,you 've just been down in the <UNK>,<UNK> で い い <UNK> に な っ た,ただ 気分 が <UNK> ん で い る だけ さ,8,41.545589177443254
+9,choose one from among these,これ ら の 中 の 中 で は 知 っ て い る,これ ら の 中 から １ つ 選 び な さ い,5,19.674979811155634
+10,he loves no one but her,彼 は 彼女 を 愛 し な い,彼女 以外 の 誰 も 愛 さ な い,6,33.584386823726156
+11,i study english every day,私 は 毎日 英語 を 作 っ て き ま す,私 は 毎日 英語 の 勉強 を する,5,23.462350320528
+12,i like spring the best of the seasons,私 は その 春 が 一番 好き だ,私 は 季節 の 中 で 春 が 好き だ,8,38.8751420414402
+13,you can 't have lost your coat in the house,コート を なく し て しま っ た はず は な い,家 の 中 で コート が 無 くな る はず は な い,10,28.02554289828041
+14,there are some oranges on the tree,オレンジ は 、 木 に オレンジ が あ り ま す,木 に オレンジ が いく つ か な っ て い る,7,20.624574461560563
+15,she died of shock,彼女 は 自分 の 死 ん だ,彼女 は ショック 死 し た,4,51.697315395717055
+16,why did she come home early,彼女 は なぜ 早 く 帰 っ た の で す か,なぜ 彼女 は 早 く 帰 っ て き た の で す か,6,54.53250141553776
+17,i like french food very much,私 は フランス 語 が 好き で す,私 は フランス 料理 が 好き で す,6,59.69491792019645
+18,"we went to boston , where we stayed a week",私 たち は １ 週間 滞在 し た の で ボストン に 滞在 し た,私 たち は ボストン に 行 き 、 そこ に 一 週間 滞在 し た,10,33.649324423301515
+19,how 's the weather there,天気 の 声 は どう で す か,そちら の 天気 は い い で す か,5,30.71934373084218
+20,the new plan will call for a lot of money,その 新し い 計画 は 多く の ため に たくさん あ る だ ろ う,その 計画 に は 多額 の 金 が 必要 と な る だ ろ う,10,27.22589423069702
+21,he was lost to history,彼 は 歴史 を 失 っ て しま っ た,彼 は 歴史 から 消え た,5,35.084396956386854
+22,she was the last woman that i expected to see at the party,彼女 は その パーティー で その 上 を よく に 会 い た い た い た,その パーティー で 彼女 に 会 う と は まったく 思 わ な かっ た,13,29.28298013714698
+23,i couldn 't get him on the phone,彼 に 電話 で 出来 な かっ た,彼 に 電話 連絡 でき な かっ た,8,43.167001068522524
+24,you must make up for lost time,君 は <UNK> を 失 っ た に 考え な けれ ば な ら な い,無駄 に し た 時間 を 取り返 さ な けれ ば な ら な い,7,44.84416535458776
+25,the matter has not been settled yet,その 問題 は まだ <UNK> て い な い,あの 件 は あの まま で あ る,7,66.8740304976422
+26,what time does the shuttle bus leave for the airport,空港 で は 何 時 に バス を 出 ま す か,リムジン は 何 時 に 空港 に 出発 し ま す か,10,39.832871551569504
+27,i have some good news for you,あなた に 良 い 知らせ を 聞 き た い,君 に 良 い 知らせ が あ る,7,24.808415001701817
+28,she wants to keep a cat,彼女 は 猫 を <UNK> に し て い る,彼女 は 猫 を 飼 <UNK> っ て い た,6,29.98221389342337
+29,the hill is <UNK> of trees,丘 の 上 は 木 の <UNK> で す,その 山 に は 木 が な い,6,42.728700639623405
+30,it was sunday yesterday,日 曜 日 だっ た,昨日 は 日 曜 日 で し た,4,36.06452879987789
+31,i have many books,私 は 多く の 本 を 持 っ て い る,私 は たくさん の 本 を 持 っ て い ま す,4,53.90594848489677
+32,and i will raise it again in three days,それ は ３ 日 前 に な く 着 い た い る だ ろ う,わたし は 、 ３ 日 で それ を 建て よ う,9,45.83034067124109
+33,i am tired from a long walk,私 は 長 い 散歩 を し て い る,長 く 歩 い た の で 私 は 疲れ て い る,7,22.825471031091592
+34,it is a good idea to read this book,この 本 は 読 む こと が 読め る,この 本 を 読 む の は い い 考え で す,9,44.76579891762719
+35,he promised that he would write to me once in a while,彼 は 時々 私 に １ 度 手紙 を 書 い た た い と 思 う,彼 は 私 に 時々 便り を し ま す と 約束 し た,12,49.24790605054523
+36,i 'll give you a call in the morning,朝 電話 を かけ る か せ ま しょ う,明日 の 朝 に 電話 を いた し ま す,9,46.173663094410266
+37,wash your hands before meals,食事 を 洗 っ て き な さ い,食事 の 前 に 手 を 洗 い な さ い,5,26.581560693718632
+38,tell me about your program for the future,将来 の こと を 私 に つ い て 話 し て くれ,君 の 未来 計画 に つ い て 話 し て くださ い,8,46.0462862587273
+39,he applied himself to the study of music,彼 は 音楽 を 勉強 する こと を <UNK> し た い,彼 は 音楽 の 研究 に 専念 し た,8,32.00286101270288
+40,i lay down to rest,私 は <UNK> に な っ た,私 は 休 む ため に 横 に な っ た,5,36.06452879987789
+41,where is the information <UNK>,<UNK> は どこ で す か,案内 所 は どこ で す か,5,70.13967267997694
+42,i study very little,私 は とても <UNK> を し な い,私 は たま に し か 勉強 し な い,4,28.422022424918993
+43,thank you for coming,ありがとう ござ い ま す,来 て くださ って ありがとう ござ い ま す,4,51.3417119032592
+44,why don 't you give me a ride,私 に 乗 っ て くれ な い で す か,車 に 乗せ て くれ な い か,8,26.202510071732622
+45,i was in london most of the summer,私 は その 夏 の <UNK> で あ っ た,夏 の 大半 私 は ロンドン に い た,8,63.60188027707555
+46,what was that noise,あの 音 は 何 が あ っ た の で す か,あの 音 は 何 だっ た の か,4,26.130226596777128
+47,please give me this book,この 本 を 私 に あげ て くださ い,この 本 を 私 に 下さ い,5,45.18010018049224
+48,i 'm afraid she will fail,彼女 は きっと 失敗 する だ ろ う,どう も 彼女 は 失敗 する よう に 思 う,6,56.620684755217965
+49,i found it impossible to cross the road,その 道路 を 理解 する こと を 理解 でき な い と 思 う,私 は 道路 を 横断 する の は 不 可能 だ と 思 っ た,8,45.739090263062025
+50,the day will come someday when the business will succeed,その 日 は 仕事 が 成功 する だ ろ う,いつ か その 仕事 が 成功 する 日 が 来る だ ろ う,10,37.77331186826423
+51,i have done much writing this week,私 は 今週 は ずっと これ を し た こと を し た い,今週 は 大いに 書 き ま し た,7,46.71379777282
+52,he spends a great deal of money on books,彼 は たくさん の 金 を たくさん 持 っ て い る,彼 は 非常 に 多く の 金 を 本 に 使 う,9,32.00286101270288
+53,from what time to what time is your office open,何 時 から 開け て い る の で す か,診察 時間 は 何 時 から 何 時 まで で す か,10,28.20992995327679
+54,is this your first visit here,この 春 は あなた の 最初 の もの で す か,初めて の 診察 で す か,6,22.416933501922294
+55,new year 's day is close at hand,１ 年 は 新し い 日 で す,正月 が すぐ そこ まで 来 て い る,8,61.43868746168435
+56,that <UNK> to him too,その <UNK> は 彼 に は <UNK> な い,それ は 彼 に つ い て も 当てはま る,5,31.062573070803655
+57,i make it a rule to get up at six every morning,私 は 朝 ６ 時 に 起き る こと を し て い る,私 は 毎朝 ６ 時 に 起き る こと に し て い る,12,61.04735835807844
+58,he has been to london three times,彼 は ロンドン に ３ 回 行 っ て き ま す,彼 は 三 回 ロンドン に 行 っ た 事 が あ る,7,57.9915067709191
+59,he is my best friend,彼 は 私 の 友達 で す,彼 は 私 の 一番 の 友人 で す,5,38.94003915357025
+60,not anybody likes this book,この 本 は 誰 も 好き で は な い,誰 も 、 この 本 を 好 ま な い,5,41.00914447248373
+61,i am pleased at your success,私 は あなた の 成功 を うれし い,あなた が 成功 し て うれし い,6,37.53119268751697
+62,do you,君 は なぜ 君 は どう か い ？ </S> し ま す か,本当,2,68.65890479690393
+63,i wish this job was over,この 仕事 は <UNK> だっ た の だ,この 仕事 が 終わ っ て くれ たら い い ん だ,6,37.01856698591431
+64,he will be back in a couple of days,彼 は あそこ を １ 日 中 に 戻 っ て き ま す,彼 は ２、３ 日 後 に 戻 っ て くる で しょ う,9,21.02369368326755
+65,they are very thick with our family,彼 ら は 私 たち の 家族 と <UNK> で す,彼 ら は 私 たち の 家族 と とても 親し い,7,63.15552371794036
+66,how can you break the news to her,彼女 の ニュース を どう や っ て も よろし い で す か,どう や っ て 彼女 に <UNK> と い う ん だい,8,18.92240568795935
+67,don 't run so fast,そんな に 速 く 走 る な い で 速 く 走 る な,そんな に 速 く 走 る な,5,47.58733096412523
+68,you must not idle away,<UNK> を し な けれ ば な ら な い,<UNK> て 時 を 過ご し て は な ら な い,5,32.89890011227793
+69,will you tell me how to play the guitar,ギター を し て くれ ま せ ん か,ギター の 弾 き 方 を 教え て くれ ま せ ん か,9,45.6068956622627
+70,i can 't leave work until five,私 は 五 まで 出発 でき な い,僕 は ５ 時 まで 仕事 を 離れ られ な い,7,26.892274683783953
+71,sometimes the game lasted all day,その 試合 は 時々 一 日 中 試合 を し た,とき に は 試合 は 一 日 中 続 き ま し た,6,41.999739844885475
+72,as many men as came were caught,<UNK> の 人 が や っ て き た,来 た もの は 皆 <UNK> っ た,7,45.91497693322865
+73,the important thing is to call the police at once,警察 を すぐ に 電話 を かけ する 事 は 重要 だ,大事 な こと は すぐ 警察 を 呼 ぶ こと で す,10,42.311785416105785
+74,the problem was where to eat lunch,問題 は どこ で 昼食 を 食べ た,問題 は どこ で 昼食 を たべ る か だっ た,7,47.3364131565402
+75,i suggested that we go fishing,私 は 釣り に 行 く よう に 提案 し た,私 は 釣り に 行 こ う と 提案 し た,6,53.107253497886994
+76,you had better get away from here at once,すぐ ここ から ここ から <UNK> が よ い,君 は ここ から すぐ に 逃げ た ほう が よ い,9,24.051990745470516
+77,i have no friend to talk with,私 は 話 を する こと を でき な い,私 に は 話 を する 友達 が い な い,7,32.03558799120807
+78,he looks tired,彼 は 疲れ て い る よう だ,彼 は 疲れ て い る よう だ,3,100.0
+79,your behavior is too extraordinary,君 の 行動 は <UNK> だ,君 の 行動 は <UNK> すぎ る よ,5,48.354474047437314
+80,"when night came on , we returned home",その 夜 は 私 達 が 帰 っ て き た,夜 に な っ て 、 家 へ 帰 っ た,8,60.76795808137692
+81,do you take me for a fool,私 を ばか に し て くれ ま す か,私 を 馬鹿 だ と 思 っ て い る の で す か,7,25.526076207555654
+82,i 'm sure she will come,彼女 は きっと 来る か と 思 う,彼女 は きっと くる と 思 う,6,43.167001068522524
+83,he 's <UNK> to our plan,彼 は 私 たち の 計画 を <UNK> に し て い る,彼 は 我々 の 計画 に 好意 的 だ,6,50.67309892897293
+84,the tower can be seen from here,その 塔 は ここ から 見 られ る はず が あ る,その 塔 は ここ から 見え る,7,33.260249505555045
+85,cats can see in the dark,猫 は 暗 く 見え る,猫 は 暗がり 目 が 見え る,6,44.81526019296194
+86,he has knowledge and experience as well,彼 は 知識 と 上手 に な い,彼 は 知識 も 経験 も 持 っ て い る,7,26.892274683783953
+87,i just went into <UNK>,私 は <UNK> に <UNK> に 入 っ た,私 は 借金 し た ところ だ,5,45.91497693322865
+88,i bought a cat at that shop,あの 店 の 猫 を 買 っ た,私 は あの 店 で 猫 を 買 っ た,7,52.8993443482769
+89,he arrived the day she left,彼 は その 日 彼女 は 到着 し た,彼女 が 発 っ た その 日 に 彼 は 到着 し た,6,33.75287924591442
+90,his name has slipped my mind,彼 の 名前 は 私 の 名前 を 聞 い て い る,彼 の 名前 を 忘れ て しま っ た,6,35.83129187641354
+91,tears filled her eyes,目 は 涙 を いっぱい 出 し て き た,涙 が 彼女 の 目 に あふれ た,4,43.668354428478125
+92,he is too ready to speak,彼 は 話せ な い,あの 男 は お しゃべ り すぎ る,6,46.08636396914616
+93,i caught on to what the teacher was <UNK>,私 は 先生 の こと を <UNK> に し た,私 は 先生 の 説明 し て い る こと が 理解 でき た,9,20.841953947969767
+94,he tried to speak by word or <UNK>,彼 は <UNK> か 言 う か <UNK> と 話 し よ う と し た,彼 は 言葉 と か <UNK> で 話 そ う と し た,8,28.855376600183728
+95,i have lived here for a long time,私 は 長 い 間 ここ に 住 ん で い た い,私 は 長 い 間 ここ に 住 ん で い ま す,8,77.44031410142033
+96,the student failed to account for the mistake,その 学生 は その 誤り を 失敗 し た は 失敗 し た,その 学生 は 、 間違い の 原因 を 説明 でき な かっ た,8,30.130404892785684
+97,he wanted to be rich,彼 は 金持ち に な かっ た,彼 は 金持ち に なり た かっ た,5,44.124845129229776
+98,leaves fell down every now and then,あそこ は 今 <UNK> を <UNK> し て き た,葉 が ときどき 落ち て き た,7,23.462350320528
+99,they had once helped each other,彼 ら は 互い に お 互い に 助け合 を し た い ま し た,彼 ら は かつて は お 互い に 助け合 っ て い ま し た,6,42.95136946366521
+100,he asked me for more money than was necessary,彼 は 私 に 必要 な 金 を 必要 と 言 っ た,彼 は 必要 以上 の 金 を 私 に 求め た,9,66.68954865619206
+101,children are playing at the back of the house,子供 たち は その 家 の 中 で 遊 ん で い る,子供 たち は 家 の 後ろ で 遊 ん で い る,9,57.31224484094262
+102,i am thinking of going to the mountains,私 は その こと を 考え る こと を 考え て い る,私 は 、 山 へ 行 こ う と 思 っ て い ま す,8,41.970107748240366
+103,i loved reading when i was a child,私 は 子供 の 頃 読 ん で い た た た た い,私 は 子供 の ころ 読書 が 大好き だっ た,8,18.207052811092133
+104,who is he,彼 は 誰 で す か,彼 は 誰,3,41.11336169005197
+105,are you sure you don 't want to use the toilet before you go,もし 君 は 朝食 の 前 に 迷惑 を 使 わ な い で す か,出かけ る 前 に トイレ に 行 か な く て い い の,14,38.53856918030314
+106,the children soon fell into a sleep,その 子供 は すぐ に 眠 っ て しま っ た,子ども たち は すぐ に 眠 っ て しま い ま し た,7,48.3065600887459
+107,he was burning to go home,彼 は 帰宅 し た く 帰宅 し た い,彼 は 家 に 帰 り た く て <UNK> し て い た,6,42.929571956853366
+108,this is the most beautiful country i have ever visited,これ は 私 が ついに ついに ついに ついに ついに 美し い 田舎 で す,この 国 は 私 が これ まで 訪問 し た 中 で 一番 美し い,10,28.645683105549306
+109,please come to talk to me,私 に 話 し て くれ,相談 に 来 て くださ い,6,80.91067115702212
+110,"he went to paris , where he first met her",彼 は パリ へ 会 っ た の 彼女 に 会 っ た い,彼 は パリ に 行 き 、 そこ で 初めて 彼女 に 会 っ た,10,31.701659570376385
+111,he <UNK> me for the accident with money,彼 は 私 に その 事故 を 私 に 同意 し た,彼 は お 金 で その 事故 の <UNK> を し た,8,36.95372084104438
+112,the doctor advised me to give up smoking,医者 は 私 に たばこ を やめ る よう に 忠告 し た,医者 は 私 に 煙草 を 止め なさ い と 言 っ た,8,21.972813874997158
+113,they haven 't come back home yet,彼 ら は まだ 帰 っ て き て い な い,彼 ら は まだ 家 に 戻 っ て き て い ま せ ん,7,39.48627814210998
+114,his love grew cold,彼 の 愛 は 風邪 を ひ き 続け た い,彼 の 愛 は 冷め て い っ た,4,24.384183193426086
+115,i don 't smoke,たばこ を 吸 わ な い,タバコ は 吸 い ま せ ん,4,70.13967267997694
+116,it was many hours before he came to,彼 が き た く な かっ た の おかげ で あ っ た,何 時間 も た っ て 彼 は 気 が つ い た,8,41.11336169005197
+117,do any of the members agree with you,これ 以上 あなた は 同意 し ま す か,メンバー の 誰 か が 君 に 賛成 し て い ま す か,8,16.847111051295393
+118,he <UNK> the little girl at the cost of his life,彼 は その <UNK> の 命 を <UNK> し て い た,彼 は 彼 の 命 を 犠牲 に し て その 少女 を 助け た,11,32.80132420123096
+119,he went home without so much as saying good-bye,彼 は 家 まで 言 っ て い っ た,彼 は さよなら も 言 わ ず に 帰 っ て しま っ た,9,29.474973939574316
+120,my father has been dead for ten years,私 の 父 は １０ 年間 や し て い る,私 の 父 が 死 ん で から １０ 年 が 経 つ,8,24.973194725900548
+121,i don 't always get up early,私 は いつ も 早起き し な い,私 は いつ も 早 く 起き る わけ で は な い,7,24.767214526041215
+122,keep in touch with me,<UNK> は 私 と 連絡 を し て い る,ときどき 連絡 し て くれ た まえ,5,43.668354428478125
+123,he is much older than ken,彼 は ケン より ずっと うま く い て い る,彼 は ケン より ずっと 年上 で す,6,33.18077402843942
+124,it looks like snow,雪 の よう に 見え る,雪 に な り そう だ,4,80.91067115702212
+125,i had a call from her for the first time in a long time,私 は 彼女 の まず 長 い 間 電話 を かけ た い,彼女 から 久し ぶり に 電話 が あ っ た,14,73.11104457090248
+126,i will give you this book,私 は この 本 を あげ る だ ろ う,この 本 を あなた に あげ ま しょ う,6,36.72056269893592
+127,i recognized her the moment i saw her,私 は 彼女 を 見 た い い い か わか っ た,僕 は 見 た とたんに 彼女 だ と 思 っ た,8,31.314224813827344
+128,the water was cut off yesterday,その 水 は 昨日 の 切 っ て い た,昨日 水道 を 止め られ た,6,40.637982820134425
+129,"bring me a cup of coffee , will you",コーヒー を １ 杯 お き ま せ ん か,コーヒー を 持 っ て き て くれ な い か,9,50.138404778620725
+130,please show me your bag,私 を 見 て 下さ い て 下さ い,バッグ を 私 に 見せ て くださ い,5,48.549177170732335
+131,i play tennis,私 は テニス を し ま す,私 は テニス を し ま す,3,100.0
+132,we ought to obey the law,私 たち は 法律 を 従 う べ き だ,私 達 は 法律 に 従 う べ き で あ る,6,24.997758323995953
+133,it 's about time i was going home,私 は 家 に 帰 っ て い た,そろそろ 家 へ 帰 る 時間 だ,8,74.00828044922852
+134,he cares for nobody but himself,彼 は 自分 の こと を 誰 も し な い,彼 は 自分 の 事 しか 考え な い,6,30.661487102926756
+135,i have given myself to music,私 は 音楽 を 知 り ま せ ん か,私 は 音楽 に 熱中 し て い た,6,29.98221389342337
+136,my friend called me a coward,私 は 友人 に 臆病 者 に 電話 を し た,友人 は 私 の こと を 臆病 者 だ と 言 っ た,6,49.94638945180109
+137,tom and jane got married last month,トム と ジェーン は 先月 結婚 し た,トム と ジェーン は 先月 結婚 し ま し た,7,69.61945239899252
+138,"you don 't like <UNK> , do you",<UNK> は 好き で す ね,あなた は <UNK> が 好き で は な い の で す ね,8,18.69315914320289
+139,she studies english every day,彼女 は 毎日 英語 を 勉強 する,彼女 は 英語 を 毎日 勉強 し ま す,5,55.06953149031837
+140,he brought me back in his car,彼 は 私 を 自動 車 で 帰 っ て き た,彼 は 私 を 車 で つれ て 帰 っ て くれ た,7,31.540342586189162
+141,this is far the best of all,これ は 全部 の 中 で 一番 よ い,これ は 、 全て の 中 で 、 断然 いちばん 良 い,7,32.89788962342769
+142,i was watching tv at this time yesterday,私 は 昨日 の 今ごろ テレビ を 見 て い た,昨日 の 今頃 は 、 テレビ を 見 て い た,8,58.590593701517044
+143,"you can 't speak english , can you",あなた は 英語 が 話せ な い で す ね,君 は 英語 が 話せ ま せ ん ね,8,24.808415001701817
+144,i usually went to the movies on sunday,私 は 普通 日曜 日 に 映画 を 見 に 行 っ た い,私 は 日曜 に は たいてい 映画 を 見 に 行 っ た,8,47.58733096412523
+145,he was <UNK>,彼 は <UNK> だっ た,彼 は 無罪 に な っ た,3,51.49052924789205
+146,we didn 't have much rain last month,先月 は 雨 が 多 かっ た,先月 は あまり 雨 が 降 ら な かっ た,8,36.92701967267332
+147,i should have done something,何 か 私 は 今 、 <UNK> を し た い,何 か 手 を <UNK> っ て お く べ き だっ た,5,39.085161980674485
+148,what would you like for dessert,すぐ 、 何 が 起こ り ま す か,デザート は 何 に な さ い ま す か,6,25.132936350227652
+149,i regret not being able to join you,あなた を 感謝 する こと を でき な い,参加 でき な く て 残念 で す,8,42.728700639623405
+150,how far is it to the station,どこ まで 駅 まで どの くらい の 距離 で す か,駅 まで どの くらい の 距離 が あ り ま す か,7,48.86103195703452
+151,i felt very happy,私 は とても うれし い で す,私 は とても 幸福 に 感 じ た,4,34.66577127095519
+152,i would like to see you again some day,１ 日 また お 会 い し た い,いつ か また あなた に お 会 い し た い もの で す,9,33.694222102590786
+153,he started an argument for smoking,彼 は たばこ を 吸 う の を 始め た,彼 は 喫煙 に 賛成 する 議論 を 始め た,6,27.901593935858273
+154,he lost color,彼 は <UNK> を し た い で す,彼 は 青ざめ た,3,45.91497693322865
+155,leave it to me,それ を 見 る と 私 に 会 い ま しょ う,僕 に 任せ て 下さ い,4,37.97013378346244
+156,i will make you happy,あなた を 幸せ に し て あげ る だ ろ う,僕 は 君 を 幸せ に する,5,27.901593935858273
+157,the computer broke down,その コンピューター を 故障 し た,コンピューター が 故障 し た ん で す,4,35.1043582995851
+158,i don 't have much money,私 は あまり お 金 を 持 っ て い な い,私 は あまり お 金 を 持 っ て い ま せ ん,6,69.81025376257925
+159,there used to be a coffee shop near the school,昔 、 学校 の 近く に は <UNK> な い,昔 は 学校 の 近く に 喫茶 店 が 会 っ た,10,22.499268274284372
+160,do you know him,彼 を 知 っ て い る か 知 っ て い ま す か,あなた は 彼 を 知 っ て い ま す か,4,58.282339541526525
+161,she didn 't need to come,彼女 は 来る 必要 は な かっ た,彼女 が 来る 必要 は な かっ た,6,75.06238537503394
+162,what time did the plane arrive at narita,その 飛行 機 は 何 時 に 到着 し た の で す か,飛行 機 は 何 時 に 成田 に 到着 し た の で す か,8,80.56338526050651
+163,i get two hour 's exercise every day,私 は 毎日 運動 を する こと を し て い る,私 は 毎日 ２ 時間 の 運動 を する,8,42.502814134169775
+164,he comes to see me nearly every day,彼 は 毎日 私 の 夜 を 見 る ところ に 来る,彼 は ほとんど 毎日 私 に 会 い に 来 て くれ る,8,50.68081515398924
+165,there is a library in our city,私 たち の 町 は 図書 館 に は あ る,私 たち の 町 に は 図書 館 が あ り ま す,7,29.69830085238935
+166,he is my senior by three years,彼 は 私 の 三 歳 の せい で す,私 より 彼 は ３ つ 年上 だ,7,43.668354428478125
+167,they clearly have something different in mind,彼 ら は その こと を 違 う と 違 う,彼 ら は 明らか に 違 う こと を 考え て い る,7,33.40116371446861
+168,will you play tennis after school,テニス を し て い ま す か,放課 後 、 テニス を し ま せ ん か,6,34.80972619949626
+169,i found a dollar in the street,私 は 通り で １ ドル を 見つけ た,道 で 一 ドル を 拾 っ た,7,57.735026918962575
+170,our teacher comes to school by car,私 たち の 先生 は 車 で 学校 に 来る,私 たち の 先生 は 車 で 学校 に 来 ま す,7,67.28850678464082
+171,i chanced to meet him at the airport,空港 で 彼 に 会 う こと を 彼 に 会 う よう に し た い,私 は 空港 で 偶然 彼 と で あ っ た,8,35.75297164449809
+172,there is a radio in my room,私 の 部屋 に は ラジオ が あ る,私 の 部屋 に ラジオ が あ る,7,65.80370064762462
+173,it is kind of you to give me a ride,私 に 乗 っ て くれ て ありがとう,私 を 車 に 乗せ て くださ って ありがとう,10,45.93613320783059
+174,how long does it take to your office from the airport,空港 から どの くらい かか っ て い る の で す か,空港 から <UNK> まで は どれ くらい かか り ま す か,11,33.649324423301515
+175,the fire destroyed the tall building,火事 は その 高 い ビル の 高 い,その 火事 が 高 い ビル を <UNK> し た,6,32.51118049583805
+176,we will get to tokyo station at noon,私 たち は 正午 で 東京 で 着 く だ ろ う,我々 は 正午 に 東京 駅 に 着 く だ ろ う,8,44.08231875586727
+177,they were very tired indeed,彼 ら は とても 疲れ て い た,彼 ら は 、 全く 疲れ き っ て い た,5,31.98048439256343
+178,i 'll come and see you later,後 で 行 っ て き ま しょ う,後 で あなた に 会 い に 行 き ま す,7,49.47385908818387
+179,tom is always watching television,トム は いつ も テレビ を 見 る こと を し て い る,トム は いつ も テレビ を 見 て ばかり い る,5,50.38920485259632
+180,the man reading a book over there is my father,その 本 は 私 の 父 の こと で あ る,向こう で 本 を 読 で い る 人 は わたし の 父 で す,10,34.38477603403858
+181,this is the same purse that i lost a week ago,これ は 私 が １ 週間 前 に な く な い,これ は 私 が 一 週間 前 に な く し た 財布 だ,11,42.64356143349618
+182,what do you think about this plan,この 計画 を どう 思 い ま す か,この 計画 に つ い て どう お 考え で す か,7,30.61493593776635
+183,he got on the train,彼 は 電車 に 乗 っ た,彼 は 汽車 に 乗 っ た,5,59.46035575013605
+184,he ran as fast as he could,彼 は でき る だけ 速 く 走 っ た,彼 は 一生 懸命 走 っ た,7,27.901593935858273
+185,do one thing at a time,１ 度 に は そんな 事 を し な けれ ば な ら な い,一 度 に 一 つ の こと を せよ,6,35.93041119630843
+186,this bus will take you around the city,この バス は あなた の 都市 の 都市 に 入 っ て い る だ ろ う,この バス に 乗 れ ば 市内 一 <UNK> が 出来 ま す,8,33.81307292971254
+187,i quite <UNK> on to that man,私 は その 男 を <UNK> に し た い,その 人 が 本当 に 好き と な っ た,7,77.65453555044466
+188,spring will be here before long,春 は ま も な く 春 が な い,春 は ま も な く や っ て くる,6,47.987820666906636
+189,"not now , then when",今 、 その 時 、 いつ で は な い で す か,今 で な けれ ば 一体 いつ だ,5,73.11104457090248
+190,my father and i played tennis on sunday,私 は 父 と 日曜 日 の 日曜 日 は テニス を し た,父 と 私 は 日曜日 に は テニス を し た,8,40.01601601922499
+191,time have been bad these few years,最近 、 まず まず まず まず まず ２、３ 年 が あ っ た,ここ ２、３ 年 は <UNK> が 続 い て い る,7,38.503228868787126
+192,i 'll never do this again,二 度 と これ を や っ て くる だ ろ う,<UNK> こんな こと は いた し ま せ ん,6,52.66403878479265
+193,he will be playing tennis tomorrow afternoon,彼 は 明日 の 午後 テニス を し ま す,彼 は 明日 の 午後 は テニス を し て い る だ ろ う,7,30.674893150098825
+194,how many boys are there in this class,この クラス の 中 の 何 人 たち が 続 い て い る の で す か,この クラス に は 何 人 の 男の子 が い ま す か,8,28.80024889341061
+195,"while i was walking down the street , i happened to see a traffic accident",次 の 通り を 見 て 交通 が 見え た,通り を 歩 い て い た とき 交通 事故 を 見かけ た,15,43.752531949467084
+196,i think your work is all right,私 は あなた の 仕事 を 全部 正し い,君 の 仕事 は 申し分 な い と 思 う,7,43.9291121189358
+197,i intended to have been a teacher,私 は 先生 を ずっと ずっと ずっと ずっと や っ て き た の で す,教師 に な る つもり だっ た の だ が な ら な かっ た,7,32.406944672724194
+198,"no matter how fast you ran , you cannot win",何 が 速 く 走 っ て も 、 <UNK> が な い,どんな に 速 く 走 っ て も 、 君 は 勝て な い,10,49.504302173760486
+199,he does far better than you do at school,彼 は 学校 で 学校 を や っ て い る,彼 は 学校 で は 君 より はるか に 成績 が よ い,9,19.86045076930839
+200,she bought a chicken,彼女 は <UNK> を 買 っ た,彼女 は <UNK> を 買 っ た,4,100.0
+201,i think it 's dangerous to swim in that river,その 川 で 泳 ぐ だ と 思 う,あの 川 で 泳 ぐ の は 危険 だ と 思 う,10,48.74858042804568
+202,what a lovely day,<UNK> で す,なん て よ い 天気 な ん で しょ う,4,14.612588611198102
+203,money cannot make up for lost time,金 は な い,失 っ た 時間 を 金 で 埋め合わせ る こと は でき な い,7,8.647154598524983
+204,i have to oppose this idea,私 は これ を 思いつ い う こと を し て い る,この 考え に は 反対 せ ざる を え な い,6,73.11104457090248
+205,it rained for several days on end,雨 が 降 っ た の で 雨 が 降 っ た,何 日 も 続け て 雨 が 降 っ た,7,38.05803001674946
+206,i see a house among the trees,私 は その 間 の 中 に 家 を 見 た,木 の 間 に 家 が 見え る,7,44.11629359322706
+207,i achieved all i hoped to do today,今日 私 は 今日 出来 た かっ た で す,今日 や ろ う と し た こと は 全部 や っ た,8,62.51012684704784
+208,i can 't bring myself to eat anything,私 は 食べ られ な い,私 は 何 も 食べ る 気 に な ら な い,8,22.962062226376144
+209,there once lived an old man on that island,その 島 に は その 古 い 老人 が 住 ん で い た,昔 その 島 に ひとり の 老人 が 住 ん で い た,9,57.028222644055404
+210,all that you have to do is to wait for his reply,君 は 彼 の 待 つ こと を でき る よう に し て い る,君 は 彼 の 返事 を 待ち さえ すれ ば よ い,12,16.467029855845897
+211,that 's too bad,それ は 悪 すぎ る で す,気の毒 で す ね,4,48.10977290978807
+212,he asked after my wife when i met him today,彼 は 今日 私 が 彼 に 会 っ た こと を 尋ね た,今日 彼 に 会 っ たら 妻 は 元気 か と 聞 か れ た,10,19.667812291861893
+213,you look very pale,顔色 は とても 悪 い,君 は 大変 青白 い 顔 を し て い る,4,30.934850332660563
+214,"pass down the car , please",自動 車 を <UNK> し て 下さ い,どうぞ 中 ほど へ お 進 み 下さ い,6,29.558013016570783
+215,she has a husband and two daughters,彼女 は 二人 の 夫 と ２人 の 値段 を 持 っ て い る,彼女 、 結婚 し て 女の子 が 二人 い る の よ,7,41.32584091896901
+216,i go in for tennis while my sister goes in for swimming,私 は 泳ぎ テニス で テニス を し て い る,私 は テニス を する が 、 姉 は 水泳 を や る,12,51.43896597480446
+217,this book is mine,この 本 は 私 の もの で す,この 本 は 私 の 本 で す,4,59.69491792019645
+218,this is the man for you to speak to,これ は あなた に 話せ る 人 だ,こちら は あなた が お 話 に な る お 方 で す,9,29.45334773316695
+219,will he come tomorrow,彼 は 明日 来 ま す か,彼 は 明日 来 る で しょ う か,4,32.01911827891037
+220,he put her <UNK> to good use,彼 は 彼女 を よ い こと を 使 っ て くれ た い,彼 は 貯金 を 上手 に 使 っ た,7,50.813274815461476
+221,she <UNK> quiet music,彼女 は 音楽 を 聴 い て い た,彼女 は 静か な 曲 が 好き だ,4,42.728700639623405
+222,there is nothing to worry about,<UNK> は な い,何 も 心配 する こと は な い,6,30.048438849849052
+223,can you <UNK> the price to ten dollars,１０ ドル に かか っ て もらえ ま す か,１０ ドル に まけ られ ま す か,8,33.932513407933634
+224,what did he do yesterday,昨日 彼 は 何 を し た の で す か,彼 は きのう 何 を し ま し た か,5,41.72261448611506
+225,what do you do after school,何 を し て から 君 は なん を し ま す か,放課 後 、 あなた は 何 を し ま す か,6,41.60751652217845
+226,he has a dog,彼 は 犬 を 飼 っ て い る,彼 は 、 犬 を 飼 っ て い る,4,75.16501147964686
+227,please put on your shoes,靴 を 磨 い て き た い,靴 を 履 い て くださ い,5,70.71067811865476
+228,it is quite a sorry sight,その 光景 は まったく まったく 見え な けれ ば な い,まったく 悲し い 光景 だ,6,75.98356856515926
+229,it is no easy task to write a letter,手紙 を 書 く の 手紙 を 書 く の は 簡単 で す,手紙 を 書 く こと は 、 た やす い こと で は な い,9,17.70204269468799
+230,how can i get to the police station,警察 を <UNK> でき る よう に でき ま す か,警察 署 まで の 行 き 方 を 教え て くださ い,8,65.05696445772021
+231,i went out although it was raining,雨 は 降 っ て い っ た の で 私 は <UNK> だっ た,私 は 雨 が 降 っ て い た が 出かけ た,7,21.874057156123218
+232,he has experience as well as knowledge,彼 は 知識 ほど 上手 に 立 っ て い る,彼 は 知識 ばかり で な く 経験 も あ る,7,32.64971028628052
+233,i stayed up till late at night,私 は 夜 遅 く まで 起き た,私 は 遅く まで 起き て い た,7,70.71067811865476
+234,father wants to make me a doctor,父 は 私 を 医者 に 通 し て い る,父 は 私 を 医者 に <UNK> っ て い る,7,63.40466277046861
+235,"if you have time , drop me a line now and then",もし 時間 を し て き て くださ い,時間 が あ れ ば 時々 私 に ちょっと 便り を 下さ い,12,30.77772945160715
+236,words failed her,言葉 は 失敗 し た い で す,彼女 は 言葉 に 詰ま っ た,3,81.6496580927726
+237,i didn 't quite catch the name of that <UNK>,私 は その 名前 を <UNK> に し な かっ た,そんな <UNK> の 名前 聞 い た こと な い,10,80.34284189446518
+238,i can hear the sound in your mind,私 は 君 の こと を 聞 き そう だ,俺 に は お前 の 心 の 音 が 聞こえ る,8,65.9858515800358
+239,you may be right,君 は 正し い,多分 君 が 正し い の だ ろ う,4,24.601580968354604
+240,"i ought to ask , <UNK> 't i",<UNK> を 聞 い て も い い で す ね,私 が <UNK> す べ き で しょ う ね,8,44.11629359322706
+241,"she broke the cup , too",彼女 は カップ を １ 杯 飲 み すぎ た,彼女 も コップ を 割 っ た,6,43.668354428478125
+242,will i be able to get well soon,すぐ に よ く な る だ ろ う か,すぐ に 治 り ま す か,8,51.93071778680676
+243,do not bother to come to my home,私 の 家 に 帰 ら な い で は な い,わざわざ 家 に 来 な く て も い い で す よ,8,50.68081515398924
+244,this is the first time that i have been here,これ は ここ で 初めて 私 が ここ に い た こと で す,当地 へ 来 た の は 今度 が 初めて で す,10,26.760322756637912
+245,it was not until last night that i heard the news,昨夜 その 知らせ が 聞こえ な かっ た の で は な い,昨夜 初めて その 知らせ を 聞 い た,11,42.61082723917017
+246,the <UNK> situation has changed,<UNK> は <UNK> を 変え た,政治 <UNK> が 変わ っ た,5,51.697315395717055
+247,i want to come here next winter again,私 は また また また この 冬 は ここ に 来 た い,私 は 来年 の 冬 <UNK> ここ に 来 た い,8,40.52587697205425
+248,we can see a big mountain over there,あそこ の 山 が 見え る,向こう に 大きな 山 が 見え ま す,8,33.1996523012736
+249,i am going to be <UNK>,私 は <UNK> に な い,私 は もう すぐ <UNK> 歳 に な り ま す,6,35.79090209118197
+250,sometimes i run out of money,私 は 時々 お 金 を <UNK> し て い た,ときどき お 金 が 足り な く な り ま す,6,38.827267775222325
+251,two heads are better than one,２ つ の 方 が 良 い,二 つ の 頭 は 一 つ の 頭 に まさ る,6,25.751305773417382
+252,he came back last august,彼 は ついに ８ 月 に 帰 っ て き た,彼 は この 前 の ８ 月 に 戻 っ て き た,5,39.442141148840776
+253,he left his luggage at the station,彼 は 駅 を 出 し た,彼 は 駅 に 手 荷物 を 預け た,7,37.46792881553041
+254,she left home after three days,彼女 は 三 日 前 に 家 を 去 っ た,彼女 は 三 日 後 に 家 を 離れ た,6,34.172334076593074
+255,i saw a boat above the bridge,私 は 橋 を 大き く の 上 を 見 た,橋 の <UNK> に 私 は ボート を 見 た,7,27.091988546756284
+256,i should like to see you this afternoon,今日 の 午後 あなた に 会 い た い,今日 の 午後 お 会 い し た い の で す が,8,30.77772945160715
+257,i don 't like coffee,コーヒー は 好き で は な い,ぼく は コーヒー が <UNK> だ,5,78.25422900366436
+258,bill kept on crying for hours,ビル は 泣 き 続け た,ビル は 何 時間 も 泣 き 続け た,6,46.06369751099829
+259,she is getting prettier,彼女 は <UNK> を し て い る,彼女 は だんだん きれい に な っ て き て い る,4,22.75857642217291
+260,watch your head,時計 を <UNK> っ て,頭 に 気 を つけ て ！ </S> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>,3,64.31870218238024
+261,they all <UNK> it nonsense,彼 ら は それ を すべて <UNK> に し て い る,彼 ら は 皆 、 それ が 無 意味 だ と い っ た,5,24.794277351227223
+262,he began to shout,彼 は <UNK> を し て しま っ た,彼 は 叫 び 始め た,4,54.60241725418133
+263,please turn out the light before leaving the room,部屋 を 出 る 前 に 明かり を 消 し て 下さ い,部屋 を 出 る 前 に 明かり を 消 し て 下さ い,9,100.0
+264,the success resulted from your efforts,その 成功 は 君 の 努力 を 確信 し た,あなた が 成功 し た の は 努力 の 結果 だ,6,45.86115859713839
+265,do you know how to drive a car,車 の 運転 の 仕方 を 知 っ て い ま す か,車 の 運転 の 仕方 を 知 っ て い る か,8,72.72454093000141
+266,it snowed for days on end,その 国 は <UNK> で 取 っ た,雪 が 何 日 も 降 り 続 い た,6,32.689967585126034
+267,there were a lot of people in the room,部屋 の 人 は 多く の 人 が い た,部屋 に は たくさん の 人々 が い ま し た,9,54.53841610598518
+268,i have just eaten lunch,私 は 母国 な お 昼 を 食べ に な っ た,私 は ちょうど 昼食 を 食べ 終え た ところ だ,5,52.66403878479265
+269,let him do as he likes,彼 は 彼 を 好き に し て や せ よ う,彼 の 好き な よう に や ら せ なさ い,6,82.42367502646054
+270,mother has not cooked dinner yet,母 は まだ 夕食 を 作 っ て い な い,母 は まだ ディナー を 料理 し て い ま せ ん,6,32.67534141240998
+271,i 'll make a model plane for you,あなた の 飛行 機 に あ る だ ろ う,君 の ため に 模型 飛行 機 を 作 っ て あげ よ う,8,39.95046826222097
+272,he wanted to absent himself from the class,彼 は クラス の 中 で 彼 を 欠席 し た かっ た,彼 は 授業 を 休 み た い と 思 っ た,8,50.67309892897293
+273,his house is across the street,彼 の 家 は 通り の 向こう側 に あ る,彼 の 家 は 通り の 向こう側 に あ り ま す,6,67.28850678464082
+274,it 's a pity that he should be ill in bed,彼 は 病気 で 寝 る よう に し て い る,彼 は 病気 で 寝 て い る なんて かわいそう だ,11,39.832871551569504
+275,i slept well last night,私 は 昨夜 よく 眠れ た,昨夜 は 良 く 眠れ た,5,46.71379777282001
+276,my father is going to make a trip to new york,私 の 父 は ニューヨーク へ 旅行 する 予定 だ,父 は ニューヨーク へ 旅行 する こと に な っ て い ま す,11,33.35844217369438
+277,this should be plenty,これ は <UNK> に な い で す,これ で 十分 な はず で す,4,37.53119268751697
+278,i was absent from the meeting,私 は 会合 を 欠席 し た,私 は 会 を 欠席 し た,6,59.46035575013605
+279,give this ticket to whoever comes first,この 切符 を 深 く も 無駄 に し て お き なさ い,誰 に も 最初 に 来 た 人 に この チケット を あげ なさ い,7,25.034468860535323
+280,when will you come home,あなた は いつ 帰宅 する で しょ う か,何 時 に 帰 っ て くる の,5,56.23413251903491
+281,he must be somewhere about,彼 は どこ か <UNK> で あ る に ちがい な い,彼 は どこ か その 辺り に い る はず で す,5,23.684767130057967
+282,we took turns driving,私 たち は 運転 を 運転 し た い で す,私 達 は <UNK> で 運転 し た,4,32.09138982794099
+283,you must be a fool to do such a thing,そんな こと を する よう に し な けれ ば な ら な い,そんな 事 を する なんて 君 は 馬鹿 に 違い な い,10,29.615165360116247
+284,he 's never had to earn his own living,彼 は 自分 の 生活 を <UNK> し な い,彼 は 今 まで 自分 で 生計 を 立て る 必要 が な かっ た,9,30.674893150098825
+285,not all were satisfied,<UNK> な い で は な かっ た,みな が みな 満足 し て い た わけ で は な い,4,24.942258734439825
+286,i have to go now,私 は 今 行 か な けれ ば な ら な い,僕 は もう 行 か な けれ ば な ら な い,5,75.39221180326288
+287,you had better be careful not to catch cold,風邪 を ひ か な い よう に し な けれ ば な ら な い,風邪 を ひ か な い よう に し なさ い よ,9,50.435454745108046
+288,the company has changed hands three times,その 会社 は ３ 回 <UNK> を 変え る こと が あ る,その 会社 は 、 経営 者 が ３ 回 変わ っ て い る,7,32.393158919466806
+289,"it is windy today , isn 't it",今日 は 風 が 強 い で す ね,今日 は 風 が 強 い で す ね,8,100.0
+290,he was really off the wall yesterday,彼 は 昨日 その 壁 を <UNK> っ て い た,彼 は 昨日 は ふつう じゃ な かっ た,7,32.64971028628052
+291,how fast you run,何 と 速 く 走 る の ！ </S> い,あなた は 何 と 速 く 走 る の で しょ う,4,45.00994164652013
+292,he is poor and could not buy a coat,彼 は <UNK> を 買 わ な かっ た,彼 は 貧し く て 、 コート が 買え な かっ た,9,23.142716255858215
+293,we saw clouds above the mountain,私 たち は 雲 を 雲 を 見 た,山 の 上 に 雲 が 見え た,6,42.728700639623405
+294,help yourself to anything you 'd like to eat,お 食べ に は 、 食べ た い で す,何 で も ご 自由 に 召し上が っ て くださ い,9,70.90641203367743
+295,"to know is one thing , to practice another",知 ら れ る こと を 別 の こと を 知 っ て い る,知 っ て い る こと と 、 実行 は <UNK> だ,9,26.332019392396333
+296,he was hard up,彼 は 一生 懸命 に 起き た,彼 は お 金 に 非常 に 困 っ て い た,4,34.79516834752484
+297,i am not now in a position to help you,今 あなた を 助け て も お も 私 は 失礼 で な い,私 は 今 あなた を 助け られ る <UNK> で は な い,10,27.22589423069702
+298,the people present were surprised,その 人々 は 驚 い た,出席 し て い た 人 たち は 驚 い た,5,30.096441267171585
+299,she is now staying at her uncle 's house,彼女 は 今 家 の 家 の 家 に 滞在 し て い る,彼女 は 今 おじ さん の 家 に 滞在 し て い ま す,9,50.38920485259632
+300,"hurry up , or you will be late for school",急 が な い で 学校 に 遅刻 する だ ろ う,急ぎ な さ い 、 そう し な い と 学校 に 遅れ る よ,10,39.94818449123974
+301,"to my surprise , he failed in the exam",驚 い た は 彼 は 試験 に 失敗 し た,彼 が 不 合格 だっ た の に は 驚 い た,9,33.78454861320186
+302,let me help you,私 を 手伝 っ て あげ て 下さ い,私 に 手伝 わ せ て くださ い,4,48.549177170732335
+303,this problem is difficult to solve,この 問題 は 解け な い,この 問題 を 解 く の は 難し い,6,45.50524645870584
+304,can you account for your car accident,あなた は その 自動 車 を 説明 でき ま す か,あなた の 自動 車 事故 の 説明 が 出来 ま す か,7,24.925832743644715
+305,we visited his home country for the first time,私 たち は 初めて 彼 の 間 その 国 を <UNK> し た,私 たち は 初めて 彼 の 生まれ 故郷 を 訪ね た,9,40.52587697205425
+306,where did you come by the watch,どこ で 来 られ た の で 来 た の で す か,あなた は その 時計 を どこ で 手 に 入れ た の で す か,7,34.111610352643645
+307,i am getting on well,私 は よく 良 く な っ て い る,私 は 元気 に や っ て ま す,5,54.91004867761124
+308,the students made her life happy,学生 は 幸福 を 幸せ に し た,生徒 たち は 、 彼女 の 人生 を 幸福 に し た,6,22.011371623427067
+309,the car didn 't move,その 車 は 動か し な かっ た,その 車 は 動 か な く な っ た,5,34.80972619949626
+310,he is in great trouble,彼 は 非常 に 偉大 に な っ て い る,彼 は ひど く 困 っ て い る,5,36.46285861936467
+311,his opinion is for the birds,彼 の 意見 は 鳥 の ため に な っ て い る,彼 の 意見 は <UNK> ら な い,6,20.44800736021839
+312,i don 't care whether he <UNK> or not,彼 が <UNK> か どう か <UNK> か な い,彼 が 賛成 する か どう か は 気 に し な い,9,40.59006515903008
+313,"she said to her brother , '' i will tell on you",彼女 は 弟 を 言 っ た と 言 っ た ら しい,彼女 は 兄 に 「 <UNK> ちゃ う から 」 と 言 っ た,12,20.458069164373974
+314,it 's five o 'clock somewhere now,今 で す は 五 時 の ところ で す,どこ か は 今 五 時 だ ろ う,7,46.173663094410266
+315,is she your teacher,彼女 は 先生 で す か,彼女 が あなた の 先生 で す か,4,48.354474047437314
+316,what do you say to taking a walk in the park,公園 で 散歩 し て い い い で す か,公園 を 散歩 する の は いかが で す か,11,23.462350320528
+317,you may as well start at once,すぐ に 出発 する か も しれ な い,あなた は すぐ に 出発 し た 方 が い い で す よ,7,20.821865410806517
+318,i felt a touch of pain in my head,私 は 頭 を 止ま る の を やめ た,私 は 頭 に 少し 痛み を 感 じ た,9,36.72056269893592
+319,"now that he has gone , we miss him very much",今 は 彼 が な い し て い る の で す,彼 が い っ て しま っ た 今 は とても 寂し い,11,54.45178846139404
+320,i 'm not busy now,私 は 今 忙し く な い,私 は 今 忙し く あ り ま せ ん,5,37.18800424646649
+321,i 'm very sorry,とても す い い で す,大変 申し訳 あ り ま せ ん,4,53.294626282168544
+322,you have the same camera as mine,君 は 私 の カメラ を 同じ カメラ を 持 っ て い る,あなた は 私 と 同じ カメラ を も っ て い る,7,36.15855225145535
+323,this is the house where i was born,これ は 私 が 生まれ た 家 で す,ここ は 私 が 生まれ た 家 で す,8,88.01117367933934
+324,i saw a koala for the first time,私 は 初めて その 症状 を 見 た い い で す が 見え た,私 は 初めて コアラ を 見 た,8,37.99178428257963
+325,do you know any doctors who speak japanese,日本 語 を 話せ る か 知 っ て い ま す か,日本 語 の 話せ る 医者 は い ま す か,8,34.07806467081348
+326,don 't go back on your promise,約束 を 守 ら な い で 帰 っ て き た い,約束 を 裏切 っ て は いけ な い,7,62.62844962765469
+327,where was tony playing then,私 は 次 の 近く で 遊 ん で い た の で す か,トニー 君 は その 時 どこ で 遊 ん で い ま し た か,5,28.03950119994003
+328,he was brought up to be a doctor,彼 は 医者 を 育て た た い で す た,彼 は 医者 に な る よう に <UNK> られ た,8,32.64971028628052
+329,i 'm just beginning,私 は ちょうど ちょうど 今 で す,私 は 今 始め た ところ で す,4,42.45672557693626
+330,i cannot read french,私 は フランス 語 を 読め な い,私 は フランス 語 が 読め な い,4,59.69491792019645
+331,you mustn 't speak ill of the dead,君 は その <UNK> を 悪 い て 話 を し な い,死 ん だ 人 たち を 悪 く 言 っ て は いけ な い,8,27.145609438915674
+332,i met him on the street by chance,私 は 彼 に 偶然 通り で 出会 っ た,ふと 街 で 彼 に 会 っ た,8,36.72056269893592
+333,do i have to do it right away,すぐ に それ を し な けれ ば な ら な い で す か,すぐ それ を し な けれ ば な り ま せ ん か,8,42.311785416105785
+334,it will bring down trouble on your family,あそこ の 家族 を <UNK> し て き ま す,それ は あなた の 家 に <UNK> を もたら す で しょ う,8,62.51012684704784
+335,"our next trip is for pleasure , not for work",私 たち の 旅行 は まったく まったく 楽し く な い,今度 の 旅行 は 仕事 じゃ な く て 遊び で す,10,28.409305819806306
+336,he gave me a piece of advice,彼 は 私 に 助言 を し て くれ た,彼 は 私 に 忠告 を １ つ し て くれ た,7,50.30989330530423
+337,this is a direct road to london,これ は ロンドン に 行 く の こと だ,これ は ロンドン へ <UNK> する 道 で す,7,32.46679154750989
+338,"on the whole , i am in favor of your opinion",その 意見 は あなた の 意見 に 賛成 だ,概し て 私 は 君 の 意見 に 賛成 だ,11,48.61555413051454
+339,john went to america by air,ジョン は アメリカ へ 行 っ た,ジョン は 飛行 機 で アメリカ へ 行 っ た,6,52.591779962941175
+340,his is a large family,彼 の 家族 は 大 家族 で す,彼 の 家族 は 大勢 で あ る,5,33.03164318013807
+341,do you need an <UNK>,<UNK> は 必要 で す か,<UNK> 車 が 必要 で す か,5,55.78002860768766
+342,her voice could hardly be heard above the noise,彼女 の 声 は その 音 を ほとんど 聞 い た た た た い,彼女 の 声 は 騒音 の 中 で ほとんど 聞 <UNK> な かっ た,9,19.5647514979229
+343,i was watching tv at this time yesterday,私 は 昨日 の 今ごろ テレビ を 見 て い た,私 は 昨日 の 今ごろ テレビ を 見 て い た,8,100.0
+344,"see to this matter right away , will you",この 問題 を <UNK> に し て もらえ ま す か,この 件 を <UNK> に 調べ て くれ,9,30.878189539634487
+345,"the more i get , the more i want",これ 以上 の <UNK> が 欲し い,持て ば 持 つ ほど もっと 欲し く な る,9,48.59869096699081
+346,i leave home for the company at seven every morning,私 は 毎朝 七 時 に 家 を 着 た い,私 は 毎朝 ７ 時 に 家 を 出 て 会社 に 向か う,10,24.68980050800965
+347,it is definite that he will go to america,彼 が アメリカ に 行 く の は 正し い,彼 が アメリカ に 行 く の は 、 <UNK> し て い る,9,49.88250584787245
+348,have students read such books as will make them think more,あの ばか は 彼 ら の 本 を 考え る だ ろ う,学生 に もっと 考え させ る よう な 本 を 読 ま せ なさ い,11,35.29251315330747
+349,he jumped about the room,彼 は 部屋 を つ い て い た,彼 は 部屋 中 <UNK> っ た,5,37.99178428257963
+350,she made cookies for the children,彼女 は 子供 たち を 作 っ た,彼女 は 子供 たち に クッキー を 作 っ て あげ た,6,30.847042881574826
+351,what food don 't you like,何 が 好き で は な い で す か,嫌い な 食べ物 って あ り ま す か,6,29.98221389342337
+352,the snow lasted for two days,雪 が 疲れ た,その 雪 は ２ 日間 続 い た,6,27.963223202101833
+353,the news broke her heart,その ニュース を 彼女 の 心 を <UNK> し た,その ニュース は 胸 が <UNK> ん ばかり だっ た,5,54.91004867761124
+354,we are looking forward to our uncle 's visit,私 たち は 叔父 の 家 を 訪問 し て い る,私 たち は おじ さん の 訪問 を 楽しみ に ま っ て ま す,9,24.67055224969575
+355,i would like to go with you,私 は あなた と 一緒 に 行 き た い,ご 一緒 し た い もの で す,7,43.668354428478125
+356,this is a problem of your own making,この 問題 は 自分 の 問題 で 自分 の もの だ,これ は あなた が 自分 で おこ し た 問題 で す,8,40.58894951459596
+357,he was broken by the failure of his business,彼 は 仕事 の 失敗 に よ っ て <UNK> さ れ た,彼 は 事業 に 失敗 し て 破産 し た,9,52.66403878479265
+358,we can see a lot of stars at night in summer,私 たち は 夜 は 星 に は 多く の <UNK> が 見え る,夏 に は 夜 たくさん の 星 が 見え ま す,11,58.143073696821936
+359,i 'm much obliged to for your kindness,親切 は あなた の 親切 に 賛成 で す,ご 親切 に ありがとう ござ い ま す,8,54.60241725418133
+360,you had better go now,君 は 今 行 っ た 方 が よ い,あなた は もう 行 っ た ほう が い い,5,38.16330911371337
+361,i 've seen it a million times,私 は 、 １ 度 も それ を 見 た こと を し た い,いや と い う ほど 見 て き た から 分か る,7,70.71067811865476
+362,i can speak english,私 は 英語 を 話せ る 事 を 話せ る,私 は 英語 が 話せ る,4,46.92470064105599
+363,we were going along in the rain,雨 の 中 で 私 たち は 雨 に い っ て い た,私 たち は 雨 の 中 を 進 ん で 行 っ た,7,27.22589423069702
+364,they are too close,彼 ら は <UNK> で す,あの 二人 は どう も 怪し い,4,63.37834876616586
+365,here we go,ここ で 行 き ま す か,さあ 、 行 く ぞ,3,70.71067811865476
+366,he is a clever boy,彼 は 利口 な 少年 で す,彼 は 利口 な 少年 だ,5,54.10822690539396
+367,what on earth is the matter,一体 一体 問題 で す か,一体 、 どう し た の,6,73.11104457090248
+368,i was deeply moved by that,私 は その 気分 に 深 く 深 く 同情 し た い,私 は その こと で 強 く 心 を 動か さ れ た,6,27.22589423069702
+369,i 'm feeling sort of tired,私 は 疲れ て い い い て い る,ちょっと 疲れ た,6,65.29942057256105
+370,is the hotel close to the airport,空港 の <UNK> は 空港 に あ り ま す か,ホテル は 空港 に 近 い の で す か,7,45.38407873007614
+371,she acknowledged that my statement was true,彼女 は 私 の 事 を 本当 だ と 認め た,彼女 は 私 の 言葉 を 真実 だ と 認め た,7,54.52469119630863
+372,you should eat more vegetables,もっと 食べ る で す よ,あなた は もっと 野菜 を 食べ た 方 が い い で す よ,5,14.51006149190752
+373,this house is very <UNK>,この 家 は とても <UNK> が あ る,この 家 は とても 広 い,5,31.55984539112945
+374,how do you like this <UNK>,この <UNK> は いかが で す か,この <UNK> は どう,6,39.2814650900513
+375,she asked him to open the window,彼女 は 彼 に 窓 を 開け た い か 尋ね た,彼女 は 彼 に 窓 を 開け る よう に 頼 ん だ,7,45.033035241661885
+376,i have one brother,私 は 兄 が い る,私 は 兄 が 一人 い ま す,4,34.19177649965185
+377,the movie starts,その 映画 は <UNK> を 作 っ て い る,映画 が 始ま り ま す,3,65.29942057256105
+378,i could read between the lines,私 は <UNK> で その 方法 を 教え られ る だ ろ う,僕 は 、 <UNK> の うち に 理解 し た,6,68.03749333171201
+379,i fail to see the reason,私 は その 理由 を 見 る よう に し て い る,理由 が わか り かね ま す,6,61.47881529512643
+380,my hobby is to read,私 の 問題 は 読 む こと を 読め る,私 の 趣味 は 読書 だ,5,43.668354428478125
+381,will you tell me the way to kyoto station,京都 に 行 く 道 を 教え て くれ ま せ ん か,京都 駅 へ 行 く 道 を 教え て くれ ま せ ん か,9,79.65485887268619
+382,the new year will come in an hour,その 新し い <UNK> は １ 時間 で くる だ ろ う,あと １ 時間 で 年 が 明け ま す,8,26.130226596777128
+383,choose any dress you like,好き な ドレス を 選 ん で す,好き な ドレス を どれ で も 選 び な さ い,5,22.011371623427067
+384,i gave him a call,私 は 彼 に 電話 を かけ た,私 は 彼 に 電話 を し た,5,66.06328636027614
+385,we go to school to study,私 たち は 勉強 し て 学校 へ 行 き ま す,私 たち は 勉強 する ため に 学校 へ 行 く,6,28.91784933232572
+386,it is half a year since he went to tokyo,彼 が 東京 に 行 っ て から １ 年 に な っ た,彼 が 東京 に 行 っ て から <UNK> に な り ま す,10,53.28009719875519
+387,"looking into the room , i found nobody there",部屋 を 調べ て き た い た い,部屋 を のぞ い て み たら 、 だれ も い な かっ た,9,32.030715623800845
+388,our baseball <UNK> is very small,私 たち の 野球 は とても 小さ い,我々 の 野球 場 は 非常 に 狭 い,6,54.62757644646491
+389,put the question to writing,問題 を 書き留め た い で 質問 を し た い,質問 は <UNK> に し て 下さ い,5,41.722614486115056
+390,we cannot go into the <UNK>,私 たち は その <UNK> に 乗り込 む こと を でき な い,<UNK> を に は 入れ ま せ ん,6,77.30551756939454
+391,all were glad to hear the news,その ニュース を 聞 い て うれし い もの を 聞 い て い た,その 知らせ を 聞 い て みんな 喜 ん だ,7,16.943571815930884
+392,you must come without fail,君 は 必ず 失敗 し な けれ ば いけ な い,必ず 来 な けれ ば いけ ま せ ん,5,23.462350320528
+393,he may have absented himself from school the day before yesterday,彼 は 昨日 、 彼女 は 学校 を 休 ん だ,一昨 日 、 彼 は 学校 を 休 ん だ か も しれ な い,11,34.62779310386343
+394,he had an absent look on his face,彼 は 顔 を 見 て い た い,彼 は <UNK> し た 顔つき を し て い た,8,33.83473685716838
+395,we presented a watch to him,私 たち は 彼 に 時計 を 見せ た い,私 達 は 彼 に 時計 を <UNK> し た,6,39.458812555917675
+396,i have three tickets for it,私 は それ を ３ 台 着 い た い,私 は その チケット を ３ 枚 持 っ て い る,6,47.91643590819622
+397,how many pens do you have,何 本 の ペン を 持 っ て い ま す か,あなた は 何 本 の ペン を 持 っ て い ま す か,6,85.74039191604413
+398,that 's exactly what he said,あの 人 の 言 っ た こと は 彼 の 言 っ た こと だ,彼 は まさしく そう 言 っ た,6,24.446151121745054
+399,i am to blame for my son 's failure,私 は 息子 の 失敗 を 私 は 責任 に あ る,息子 の 失敗 は 私 が 責任 を 負 い ま す,9,31.0742513855207
+400,"yesterday , a thief entered the house",昨日 、 泥棒 が その 家 に 入 っ た,昨日 その 家 に 泥棒 が 入 っ た,7,38.82726777522233
+401,she speaks english and also speaks <UNK>,彼女 は 英語 を 話 し 、 <UNK> も 話 し ま す,彼女 は 英語 を 話 し 、 その 上 <UNK> 語 も 話 す,7,49.504302173760486
+402,he ran up to her,彼 は 彼女 を 追いかけ に し た い,彼 は 彼女 の 所 に <UNK> っ た,5,35.93041119630843
+403,i often ski,私 は よく スキー を し て い る,私 は しばしば スキー に 行 き ま す,3,45.91497693322865
+404,please make yourself comfortable,どうぞ お 楽 に な っ て 下さ い,どうぞ お 気楽 に なさ っ て 下さ い,4,46.71379777282001
+405,he slept an hour,彼 は 一 時間 で 寝 た,彼 は １ 時間 <UNK> っ た,4,65.00593260343692
+406,we sold the store for want of customers,私 たち は 昨日 の 休暇 を <UNK> し た い,お 客 が な い の で 店 を 売 っ た,8,73.91898294044948
+407,one morning he went for a walk,１ 朝 彼 は 散歩 し た,ある 朝 彼 は 散歩 に 出かけ た,7,36.28241434631103
+408,he doesn 't know what to do with his money,彼 は 金 を どう し な い か わか ら な い,彼 は 金 の 使い 道 に 困 っ て い る,10,26.01278440403792
+409,are you feeling sick,気分 が 悪 い で す か,気分 悪 い の,4,48.10977290978807
+410,it 's been five years since i came to tokyo,東京 に 来 て から ５ 年 た た た た た い,東京 へ 来 て から ５ 年 に な り ま す,10,29.899503549981365
+411,carrying out the plan was easy,その 計画 は 簡単 だっ た,その 計画 を 実行 する の は 容易 だっ た,6,30.55589628318379
+412,he doesn 't know a lot about japan,彼 は 日本 の こと を 知 ら な い,彼 は 日本 に つ い て は よく 知 り ま せ ん,8,23.065413605444874
+413,he set his house on fire,彼 は 火事 を <UNK> に 作 っ た,彼 は 自分 の 家 に 放火 を し た,6,54.67707026923338
+414,he is a kind and nice fellow,彼 は 親切 な 歌手 で す,彼 は 親切 で い い やつ だ,7,36.6545903669115
+415,please give me a ring this evening,今晩 電話 を くださ い,今晩 お 電話 下さ い,7,60.42750794713536
+416,he is in business,彼 は 商売 で す,彼 は <UNK> に <UNK> し て い る,4,28.871566309219897
+417,we were eating lunch together,私 たち は 食事 を 食べ て い た,私 たち は 一緒 に 昼食 を と っ て い ま し た,5,27.84884125000152
+418,it 's just a cold,風邪 を ひ き 続け た い で す,風邪 で す ね,5,45.91497693322865
+419,what 's the name of this tune,これ は どう な っ て い る の で す か,何 と い う 曲 な の,7,74.47819789879647
+420,he went to new york on business,彼 は 仕事 で ニューヨーク へ 行 っ た,彼 は 商用 で ニューヨーク へ 行 っ た,7,70.71067811865474
+421,i feel like having some <UNK> tonight,今夜 は <UNK> が 好き で す,私 は 今晩 、 <UNK> を 食べ た い,7,60.94445482670285
+422,it was a very good experience for him,その 経験 は とても よ い 経験 だっ た,それ は 彼 に と っ て とても い い 経験 だっ た,8,28.641904579795412
+423,he went away without saying a word,彼 は 一言 一言 も 言 わ ず に 行 っ た,彼 は 一言 も 言 わ ず に 行 っ て しま っ た,7,63.85789877043504
+424,he is a <UNK> stranger to me,彼 は 私 の <UNK> を し て くれ る,彼 は 赤 の 他人 だ よ,7,43.668354428478125
+425,"i had enough time , so i didn 't need to hurry",急 に な けれ ば 必要 な かっ た,時間 は 充分 あ っ た の で 急 ぐ 必要 は な かっ た,12,15.954797701544196
+426,where 's the toilet,トイレ は どこ の <UNK> で す か,トイレ は 、 どこ に あ り ま す か,4,34.80972619949626
+427,can i call my friend in japan,日本 で は 私 の 友達 を 呼 ぶ こと が でき ま す か,日本 の 友達 に かけ られ る で しょ う か,7,47.28708045015879
+428,nobody came to help me,誰 も 私 を 助け て き た い た,誰 も 私 を 助け に 来 て くれ な かっ た,5,34.78635157752423
+429,they married on the third of this month,彼 ら は 今月 の <UNK> を し て い る,彼 ら は 今月 の ３ 日 に 結婚 し た,8,34.48444257953326
+430,she has him at her <UNK> and call,彼女 は 彼 を <UNK> と 呼 ん で い る,彼女 は <UNK> で 人 を 使 う,8,46.17366309441026
+431,his work shows nothing to <UNK> about,彼 の 仕事 は <UNK> に つ い て い た,彼 の 仕事 は 自慢 する ほど の もの で は な い,7,19.86045076930839
+432,they <UNK> to arrive in time after all,彼 ら は 結局 到着 する 予定 を し て い る,彼 ら は どう やら なん と か 遅れ ず に 到着 で き た,8,21.935567549961686
+433,your ideas are all out of date,君 の 考え は 皆 時代 遅れ だ,あなた の 考え は まったく 時代 遅れ で あ る,7,34.80972619949626
+434,he still wants to come,彼 は まだ 来 たが っ て い る,彼 は まだ 来 たが っ て い る,5,100.0
+435,washing clothes is my work,<UNK> さん は 私 の 仕事 で す,洗濯 は 私 の 仕事 で す,5,72.59795291154771
+436,are you referring to me,私 に は 君 は 僕 を 言 っ て い る の か,私 の こと を 話 し て い る の,5,18.92240568795935
+437,i read a most interesting novel yesterday,私 は 昨日 の 小説 を 読 み ながら 読 み ま し た,私 は 昨日 非常 に おもしろ い 小説 を 読 ん だ,7,37.84481137591871
+438,he went blind in the accident,彼 は その 事故 を 調べ た,彼 は その 事故 で <UNK> し た,6,36.28241434631103
+439,tom and i are friends,トム と 私 は 友達 で す,トム と 僕 は 友達 だ,5,65.00593260343692
+440,he likes not only music but sports,彼 は 音楽 は 好き で な く 音楽 が 好き で は な い,彼 は 音楽 だけ で な く スポーツ も 好き で す,7,40.45533557851106
+441,people are living in all <UNK> of the world,<UNK> の 生活 は 皆 、 世界 中 で す,人間 は 世界 の あらゆる 所 に 住 ん で い る,9,68.45918060557558
+442,i don 't feel like working today,今日 は 仕事 が 好き で は な い,私 は 今日 働 く 気 が し な い,7,32.51118049583805
+443,the train was about to leave,列車 は 出発 し よ う と し て い た,列車 は 出発 し よ う と し て い た,6,100.0
+444,i want to have a cup of coffee,コーヒー を １ 杯 飲 み た い,私 は コーヒー が 飲 み た い,8,46.71379777282001
+445,it was easy for me to solve the problem,その 問題 を 解 く の こと を 私 に は 簡単 だっ た,楽 に その 問題 が 解け た,9,46.71379777282
+446,let 's have dinner before we go to the baseball game,私 たち は 野球 を 見 る 前 に 遊 び に 行 こ う,野球 の 試合 に 行 く 前 に 夕食 を 食べ よ う,11,56.23413251903491
+447,she seems to have been happy,彼女 は 幸せ で す,彼女 は 幸せ で あ っ た よう だ,6,27.58512992979459
+448,a child today would not do that,今日 は その 子供 が そんな こと を する だ ろ う,<UNK> そんな こと は 子供 だ って し な い だ ろ う,7,22.88275995508927
+449,they have a <UNK> son,彼 ら は 息子 を <UNK> し て い る,彼 ら に は １０ 歳 の 息子 が い る,5,34.84694488743307
+450,do your room at once,すぐ に 部屋 を し なさ い,すぐ 部屋 を 片付け な さ い,5,65.00593260343692
+451,there were a hat and a coat on the wall,上着 は 目 に な っ て い た,壁 に 帽子 と コート が かか っ て い た,10,33.660773578063704
+452,don 't break the <UNK>,<UNK> を <UNK> し な い で くださ い,<UNK> を お ら な い で くださ い,5,58.143073696821936
+453,there is a dictionary on the desk,机 の 上 に 一 冊 の 辞書 が あ る,辞書 が 机 の 上 に あ る,7,34.172334076593074
+454,i demanded that he should pay,私 は 彼 が 払 う よう に 要求 し た い,彼 に 金 の 支払い を 要求 し た,6,28.91784933232572
+455,we expect much of him,私 たち は 彼 の こと を 期待 し て い る,我々 は 彼 に おおいに 期待 し て い る,5,42.80320606750595
+456,the man stood up,その 男 は 立ち上が っ た,その 男 は 立ち上が っ た,4,100.0
+457,that singer is going to become popular,その 歌手 は 人気 が あ る,その 歌手 は <UNK> に な る だ ろ う,7,28.546623680912255
+458,she stayed at home all day long yesterday,彼女 は 昨日 １ 日 中 家 に い た,昨日 彼女 は 一 日 中 家 に い ま し た,8,38.49742634318482
+459,i paid him the money,私 は 彼 に 金 を 払 っ た,私 は 彼 に その 金 を 払 っ た,5,71.08667889750339
+460,that student is tom,あの 学生 は トム の <UNK> だ,あの 生徒 が トム で す,4,78.25422900366436
+461,the baby was the very image of his mother,その 赤ん坊 は とても 母親 に よく 似 て い た,その 赤ん坊 は 母親 に そっくり で あ っ た,9,38.16330911371338
+462,nothing is more important in life than health,健康 より 大切 な もの は 健康 で あ る,人生 に お い て 健康 ほど 大切 な もの は な い,8,19.7674377662711
+463,he entered into the game with great spirit,彼 は それ と <UNK> で 試合 を し た,彼 は 元気 に 試合 に 参加 し た,8,36.72056269893592
+464,english is not easy for us,英語 は 私 たち を 容易 で は な い,英語 は 私 達 に は やさし く な い,6,48.76836638685217
+465,i 'm sorry to trouble you,お 気の毒 で す が あ り ま せ ん,お 手数 を お かけ し て す み ま せ ん,6,21.64869374624441
+466,i cannot forget his kindness,彼 の 親切 は 決して 親切 な い,私 は 彼 の <UNK> の 親切 が 忘れ られ な い,5,31.128780276284846
+467,this box is made of paper,この 箱 は 新聞 を 作 っ て い る,この 箱 は 紙 で 出来 て い る,6,33.932513407933634
+468,go about your business,<UNK>,<UNK> な お <UNK> だ,4,13.53352832366127
+469,come what may ; i won 't change my mind,私 は 自分 の 考え を 変え な い か も しれ な い,何 が 起こ ろ う と も 、 私 は 決心 を 変え な い,10,23.014755887081005
+470,how tall are you,あなた は どれ くらい 背 が 高 い で す か,君 の 身長 は どれ くらい で す か,4,30.661487102926756
+471,let 's live it up,<UNK> に し て お き ま しょ う,<UNK> よ う,5,42.728700639623405
+472,i passed the exam and so did tom,私 は トム と 合格 し た の で 合格 し た,私 は 試験 に 合格 し トム も 合格 し た,8,26.91109110344472
+473,please wait here,ここ で 待 っ て い で 待 っ て い い い で す,ここ で 待 っ て い て い て くださ い,3,35.83129187641354
+474,i agree with what you say to some extent,私 は あなた の 程度 の 言 う こと を 同意 し て い る,あなた の 言 う こと に ある 程度 同意 し ま す,9,21.305413619585085
+475,he is sure of success in the end,彼 は 成功 し た い う もの だ,彼 は 結局 は 成功 する 事 を 確信 し て い る,8,40.50576990894273
+476,she insisted on going there,彼女 は そこ へ 行 く と い っ た,彼女 は そこ に 行 く と 主張 し た,5,53.31675363405771
+477,must i leave at once,すぐ に 出発 し な けれ ば な ら な い で す か,すぐ に 出 な けれ ば いけ ま せ ん か,5,31.823566221963034
+478,i will stay at home,私 は 家 に い ま す,私 は 家 に い る つもり だ,5,47.750342648354646
+479,it is too expensive for me to buy,私 が 高 く 高 すぎ る,それ は 高価 すぎ て 私 に は 買え な い,8,47.46358914289604
+480,my opinion is entirely different from yours,私 の 意見 は あなた の 意見 と 違 う,私 の 意見 は あなた の と は 全く 違 う,7,55.09785767132417
+481,one day the men got to his village,ある 日 人 は その 村 に 入 っ て い た い,ある 日 、 その 男 たち が 彼 の 村 に 到着 し た,8,49.03352634140952
+482,what a pity,何 と 残念 な の だ ろ う,残念 で す が,3,68.65890479690393
+483,he never breaks his promise,彼 は 決して 約束 を 破 ら な い,彼 は 、 決して 約束 を 破 ら な い,5,75.16501147964686
+484,don 't trouble about me,私 に つ い こと を <UNK> し て くれ な い,私 の こと は 心配 し な い で 下さ い,5,54.7332024239071
+485,he stopped smoking,彼 は たばこ を 吸 う の を やめ た,彼 は タバコ を 吸 う の を やめ ま し た,3,47.58015944333653
+486,she 's much better today than yesterday,彼女 は 昨日 今日 の ほう が よ い,彼女 は 昨日 より ずっと 体 の 具合 が い い,7,33.83473685716838
+487,her father is <UNK> with money,彼女 の 父 は お 金 を <UNK> し て い る,娘 の 父親 は 金離れ が い い,6,74.47819789879647
+488,the examination is near at hand,その 試験 は すぐ に <UNK> を し て い る,試験 が <UNK> に 迫 っ た,6,75.98356856515926
+489,my car broke down on the way,私 の 車 は 道 を 作 っ て き た,途中 で 私 の 車 が 故障 し た,7,32.64971028628052
+490,"smoking , please",たばこ を 吸 っ て くださ い,喫煙 席 を お 願 い し ま す,3,60.94445482670285
+491,she stood in <UNK> of the garden,彼女 は 庭 の 中 の <UNK> を し た,彼女 は 庭 に <UNK> て た っ て い た,7,33.52957210268612
+492,i just made it under the <UNK>,私 は <UNK> で それ を 作 っ た,<UNK> の ところ で 間に合 う,7,74.00828044922852
+493,i went there because i wanted to,私 は そこ に 行 き たが っ た かっ た,私 は 行 き た い から そこ へ 行 っ た の だ,7,52.37497609607007
+494,"i 'm not sure of the name , but the <UNK> is <UNK>",<UNK> と は あ り ま せ ん,名前 は ちょっと わか ら な い ん で す けど,13,54.44460596606694
+495,it 's pretty good,かわい い で す,なかなか や る なあ,4,66.8740304976422
+496,the flower is crying out for water,その 花 は 水 を <UNK> し て い る,花 が とても 水 を 欲し が っ て い る,7,26.477952261405967
+497,it rained yesterday,昨日 雨 が 降 っ た,昨日 は 雨 が 降 っ た,3,72.89545183625967
+498,i couldn 't help but fall in love with you,あなた の 愛 を 好き で な く も 助け ら な かっ た,君 を 好き に な ら ず に は い られ な かっ た,10,21.02369368326755
+499,thank you for your <UNK>,ありがとう ござ い ま し た,ご 協力 ありがとう,5,73.11104457090248
